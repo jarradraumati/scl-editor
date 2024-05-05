@@ -1,8 +1,8 @@
 {
   "name": "scl-editor",
-  "description": "OpenEnergyTools distribution based on open-scd-core",
+  "description": "jarradraumati distribution based on open-scd-core",
   "license": "Apache-2.0",
-  "author": "Jakob Vogelsang",
+  "author": "Jarrad Raumati",
   "version": "0.0.0",
   "scripts": {
     "preinstall": "git submodule update --init --recursive && git submodule foreach git pull origin gh-pages",
